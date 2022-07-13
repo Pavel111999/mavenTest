@@ -6,4 +6,6 @@ public class Test {
 
     // Тест 3
 
+    // Тест 4
+
 }
